@@ -3,7 +3,7 @@
 
 > Developed in **Windows 10** and **Python 2.7**<br />
 > https://www.python.org/<br />
-> For the versions of individual libraries see "syl_miniconda_package_list.txt"
+> For the versions of individual libraries see "Versions.txt"
 
 ### Contents
 
