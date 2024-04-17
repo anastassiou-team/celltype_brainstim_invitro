@@ -36,6 +36,17 @@ This is the code for getting the bootstrapped mean VL values for doing the spike
 This code is for pyramidal cells (for V1 and human), where we bar-plotted out the bootstrapped mean VL values and plotted them by spike-freq-bins. (i.e. Figs 4c-d). It also plots the Welch’s test and cohen’s d values for the control vs. ES comparisons
 
 * Directory **tables** contains the necessary excel files.
+> HumanCells_8Hzbins_ES_Con.xlsx<br />
+> HumanCells_8Hzbins_ES_Con_old.xlsx<br />
+> Human_200_boxplot_lineplot_nums.xlsx<br />
+> Pvalb_V1_200_boxplot_lineplot_nums.xlsx<br />
+> Pyr_V1_200_boxplot_lineplot_nums.xlsx<br />
+> SST_V1_200_boxplot_lineplot_nums.xlsx<br />
+> V1Pyr_8Hzbins_ES_Con.xlsx<br />
+> V1_200_boxplot_lineplot_allclasses_ttest.xlsx<br />
+> bootstrap_output_template2.xlsx<br />
+> hippo_200_boxplot_lineplot_Pvalb.xlsx<br />
+> hippo_200_boxplot_lineplot_Pyr.xlsx<br />
 ***
 
 For more information, see **Intro_to_files_notebooks_ES.docx**
