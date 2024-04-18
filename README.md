@@ -49,13 +49,13 @@ This code is for pyramidal cells (for V1 and human), where we bar-plotted out th
 > hippo_200_boxplot_lineplot_Pyr.xlsx<br />
 
 * Directory **data** contains the necessary pickle files. (Please unzip the **data.zip** file)
-> pickletable_HippoPvalb_pd
-> pickletable_HippoPyr_pd
-> pickletable_HumanCells_pd
-> pickletable_V1Pvalb_pd
-> pickletable_V1Pyr_pd
-> pickletable_V1Pyr_pd
-> pickletable_V1SST_pd
+> pickletable_HippoPvalb_pd<br />
+> pickletable_HippoPyr_pd<br />
+> pickletable_HumanCells_pd<br />
+> pickletable_V1Pvalb_pd<br />
+> pickletable_V1Pyr_pd<br />
+> pickletable_V1Pyr_pd<br />
+> pickletable_V1SST_pd<br />
 ***
 
 For more information, see **Intro_to_files_notebooks_ES.docx**
