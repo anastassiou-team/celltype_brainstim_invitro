@@ -13,7 +13,7 @@
 > Sub_Sup_entrainment_core_human.ipynb<br />
 
 This is the core code that is assessing e-field entrainment. This covers most of the subthreshold analysis (e.g. Figs1b, c, Fig 3) This analyzes suprathreshold data: e.g. generating rose plots for Fig2 and getting the spike histograms for Fig 4b, etc. and extracts the circular statistics information.<br />
-** Those notebooks require the raw pickle files to run. Available on **Dandi**. Link: **PENDING...**
+** Those notebooks require the raw pickle files to run. Please unzip the **data.zip** file.
 
 > Plots_Rayleigh_logp.ipynb
 
@@ -47,6 +47,15 @@ This code is for pyramidal cells (for V1 and human), where we bar-plotted out th
 > bootstrap_output_template2.xlsx<br />
 > hippo_200_boxplot_lineplot_Pvalb.xlsx<br />
 > hippo_200_boxplot_lineplot_Pyr.xlsx<br />
+
+* Directory **data** contains the necessary pickle files. (Please unzip the **data.zip** file)
+> pickletable_HippoPvalb_pd
+> pickletable_HippoPyr_pd
+> pickletable_HumanCells_pd
+> pickletable_V1Pvalb_pd
+> pickletable_V1Pyr_pd
+> pickletable_V1Pyr_pd
+> pickletable_V1SST_pd
 ***
 
 For more information, see **Intro_to_files_notebooks_ES.docx**
