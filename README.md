@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/738686969.svg)](https://zenodo.org/doi/10.5281/zenodo.11111558)
+
 #### *Results and algorithms for in vitro data analysis presented in:*
 # "Cell class-specific electric field entrainment of neural activity"
 
